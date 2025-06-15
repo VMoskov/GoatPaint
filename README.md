@@ -1,4 +1,4 @@
-# GoatPaint - Vector Editor for real Goats 🐐🎨
+# GoatPaint - Paint app for real Goats
 
 Welcome to **GoatPaint**, a simple vector graphics editor built using Python's standard Tkinter library. This project was developed as a comprehensive exercise to explore and implement several core software design patterns in a practical application. It serves as the graphical companion to the "GoatPad" text editor.
 
